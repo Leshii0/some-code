@@ -1,0 +1,12 @@
+F:\temp\Pr3\Pr3\bin\Debug\Pr3.exe.config
+F:\temp\Pr3\Pr3\bin\Debug\Pr3.exe
+F:\temp\Pr3\Pr3\bin\Debug\Pr3.pdb
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.csproj.AssemblyReference.cache
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.Form1.resources
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.Properties.Resources.resources
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.csproj.GenerateResource.cache
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.csproj.CoreCompileInputs.cache
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.exe
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.pdb
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.PlayfairMatrix.resources
+F:\temp\Pr3\Pr3\obj\Debug\Pr3.AttackOnCipher.resources
